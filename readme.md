@@ -1,0 +1,2 @@
+# Grid Practice 
+Always thought grid was the superior way of creating layouts i just never really understood it. Flex box seemed so hacky. Now I ma going to finally learn how to do it with fireship.io leading the way! https://www.youtube.com/watch?v=705XCEruZFs
