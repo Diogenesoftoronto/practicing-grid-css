@@ -1,0 +1,7 @@
+.div--standard {
+  display: grid;
+  gap: 1rem;
+  /* messy way */
+  /* grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; */
+  grid-template-columns: repeat(12, 1fr);
+}
